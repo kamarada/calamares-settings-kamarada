@@ -32,7 +32,7 @@ Presentation
     Slide {
         Image {
             id: background1
-            source: "slide1.png"
+            source: (Qt.locale().name.substring(0,2) == "pt") ? "slide1.png" : "slide2.png"
             width: 467; height: 280
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
