@@ -1,0 +1,7 @@
+#!/bin/bash
+
+mv /usr/bin/os-prober /usr/bin/os-prober-tmp
+calamares
+mv /usr/bin/os-prober-tmp /usr/bin/os-prober
+
+exit 0
