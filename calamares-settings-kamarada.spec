@@ -39,7 +39,6 @@ cp -r {etc,usr} %{buildroot}/
 
 %files
 /etc/calamares/
-/usr/bin/calamares-wrapper
 /usr/sbin/kamarada-postinstall.sh
 
 
