@@ -5,7 +5,7 @@ Summary:        Kamarada theme and settings for the Calamares Installer
 License:        GPL-2.0+
 Group:          System/Management
 Url:            https://github.com/kamarada/%{name}
-Source:         https://github.com/kamarada/%{name}/archive/15.2-dev.tar.gz#/%{name}.tar.gz
+Source:         https://github.com/kamarada/%{name}/archive/15.2.tar.gz#/%{name}.tar.gz
 
 BuildArch:      noarch
 BuildRequires:  libqt5-linguist
