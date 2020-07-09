@@ -65,6 +65,7 @@ images:
     productWelcome:      "languages.jpg"
 
 slideshow:               "show.qml"
+slideshowAPI:            1
 
 style:
    sidebarBackground:    "#424242"
