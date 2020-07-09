@@ -70,7 +70,7 @@ slideshowAPI:            1
 style:
    sidebarBackground:    "#424242"
    sidebarText:          "#FFFFFF"
-   sidebarTextSelect:    "#73BA25"
+   sidebarTextSelect:    "#43A047"
    sidebarTextHighlight: "#212121"
 
 windowExpanding:         noexpand
