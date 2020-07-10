@@ -23,18 +23,18 @@ strings:
 # Uncomment to define full version
 #    version:             1.0 LTS
 #    version:             42.3
-    version:             15.1
+    version:             15.2
 
 # Uncomment to define short version
 #    shortVersion:        1.0
 #    shortVersion:        42.3
-    shortVersion:        15.1
+    shortVersion:        15.2
 
 # $versionedName appears
 #  in welcome screen header "Welcome to the $versionedName installer."
 #    versionedName:       Generic GNU/Linux 1.0 LTS "Rusty Trombone"
 #    versionedName:       openSUSE Leap 42.3
-    versionedName:       Linux Kamarada 15.1
+    versionedName:       Linux Kamarada 15.2
 
 # $shortVersionedName appears:
 #  in partitioner,
@@ -42,7 +42,7 @@ strings:
 #  in confirmation dialog for installation
 #    shortVersionedName:  Generic 1.0
 #    shortVersionedName:  openSUSE 42.3
-    shortVersionedName:  Kamarada 15.1
+    shortVersionedName:  Kamarada 15.2
 
 # $bootloaderEntryName appears:
 #  in partitioner,
