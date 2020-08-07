@@ -30,4 +30,7 @@ touch /var/lib/YaST2/reconfig_system
 # Enable journal write to disk
 sed -i '/Storage=volatile/d' /etc/systemd/journald.conf
 
+# Calamares networkcfg module creates /etc/resolv.conf
+rm /etc/resolv.conf
+
 exit 0
